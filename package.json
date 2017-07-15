@@ -1,0 +1,27 @@
+{
+  "name": "the-weather-bot",
+  "version": "1.0.0",
+  "description": "simple weather bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadishg/the-weather-bot.git"
+  },
+  "keywords": [
+    "weather",
+    "bot"
+  ],
+  "author": "Jagadish G <jagadish.g@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagadishg/the-weather-bot/issues"
+  },
+  "homepage": "https://github.com/jagadishg/the-weather-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
